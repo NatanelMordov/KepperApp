@@ -1,11 +1,11 @@
 
 # Keeper App (React)
 
-Keeper App is a web application built with React and JavaScript that enables users to manage and organize their notes and tasks efficiently. With a user-friendly interface and real-time updates, this app simplifies the process of creating, editing, and deleting notes.
+Keeper App is a web application built with React and JavaScript that enables users to manage and organize their notes and tasks efficiently. With a user-friendly interface and real-time updates, this app simplifies the process of creating and deleting notes.
 
 ## Features
 
-- Create, edit, and delete notes
+- Create and delete notes
 - User-friendly and responsive UI
 - Real-time updates using React state management
 
