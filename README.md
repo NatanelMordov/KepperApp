@@ -1,4 +1,3 @@
-Certainly! Here’s a template for a README file for your Keeper App written in JavaScript with React:
 
 # Keeper App (React)
 
